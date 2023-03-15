@@ -7,7 +7,7 @@
 
 Sempre que não conseguir mandar um email, e o erro de que não é usuário autorizado aparecer,
 entre no token.json, e adicione <"type":"authorized_user",> sem as <> e em qualquer lugar que não
-interfira nas outras nomeclaturas.
+interfira nas outras nomenclaturas.
 
 Não altere nada do código, é muito instável, dependendo pode ser fatal.
 

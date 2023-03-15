@@ -5,11 +5,25 @@
 #                                                        #
 ##########################################################
 
-Sempre que não conseguir mandar um email, e o erro de que não é usuário autorizado aparecer,
-entre no token.json, e adicione <"type":"authorized_user",> sem as <> e em qualquer lugar que não
-interfira nas outras nomenclaturas.
+PT-BR
+{
+  Sempre que não conseguir mandar um email, e o erro de que não é usuário autorizado aparecer,
+  entre no token.json, e adicione <"type":"authorized_user",> sem as <> e em qualquer lugar que não
+  interfira nas outras nomenclaturas.
 
-Não altere nada do código, é muito instável, dependendo pode ser fatal.
+  Não altere nada do código, é muito instável, dependendo pode ser fatal.
 
-Esse é um programa de envio automático e rápido, então tera que contar com a boa vontade
-de quem recebe o email, para tiralo da marcação de SPAM, sendo feito isso uma vez, não precisa fazer mais.
+  Esse é um programa de envio automático e rápido, então tera que contar com a boa vontade
+  de quem recebe o e-mail, para tiralo da marcação de SPAM, sendo feito isso uma vez, não precisa fazer mais.
+}
+
+EN
+{
+  If you can't send a mail, this is a simple error, the user isn't authorized, so go to the token.json,
+  and add <"type":"authorized_user",> without <> in any place that don't erase the others.
+  
+  The code aren't much stable, so try to don't change, may not work.
+  
+  This is a simple e-mail sender, so they got to SPAM folder, since i don't have any signature,
+  just remove the markdown SPAM.
+}
